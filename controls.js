@@ -1,3 +1,4 @@
+//a
 class Controls{
     constructor(type){
         this.forward=false;
